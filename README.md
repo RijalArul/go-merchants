@@ -143,13 +143,6 @@ http://localhost:8080/api/v1/
 | Insufficient Balance | `{ "error": "insufficient balance" }` |
 | Unauthorized         | `{ "error": "Unauthorized" }`         |
 
-### 📓 Get Customers (Optional Testing)
-
-- **GET** `/api/v1/customers`
-
-### 📓 Get Merchants
-
-- **GET** `/api/v1/merchants`
 
 ---
 
