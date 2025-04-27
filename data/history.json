@@ -1,0 +1,88 @@
+[
+  {
+    "id": "6fdd75d4-2ff9-4f56-95b2-008a10032355",
+    "customer_id": "customer-001",
+    "action": "login",
+    "timestamp": "2025-04-27T21:13:54+07:00",
+    "success": true
+  },
+  {
+    "id": "8e3b9511-6685-41f1-a3cf-a1f42528608f",
+    "customer_id": "customer-001",
+    "action": "login",
+    "timestamp": "2025-04-27T23:16:11+07:00",
+    "success": true
+  },
+  {
+    "id": "3092cce9-dd69-46ec-acde-2259f2b3af51",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 10000,
+    "timestamp": "2025-04-27T23:25:27+07:00",
+    "success": true
+  },
+  {
+    "id": "9e87051d-d3e6-4d65-8c02-fbde5c2e4a60",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 132,
+    "timestamp": "2025-04-27T23:25:51+07:00",
+    "success": true
+  },
+  {
+    "id": "8af8db4c-a3c9-4fcb-923e-9dff293e73e0",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:34:43+07:00",
+    "success": true
+  },
+  {
+    "id": "8357d1e3-1a07-45d1-a61c-1eb8eed93a29",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:34:45+07:00",
+    "success": true
+  },
+  {
+    "id": "f1c98ae2-66f4-4de7-80b8-386d204a8616",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:35:21+07:00",
+    "success": true
+  },
+  {
+    "id": "0f5aebb1-6f48-4b8a-b6a9-9e4de624a743",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-001",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:35:52+07:00",
+    "success": true
+  },
+  {
+    "id": "85b184a7-22d1-4633-8979-c2235b1ab05a",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-011",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:52:43+07:00",
+    "success": false
+  },
+  {
+    "id": "bb499d61-1068-4ecf-ab15-6749f1c1e35f",
+    "customer_id": "customer-001",
+    "action": "payment",
+    "merchant_id": "merchant-011",
+    "amount": 1000,
+    "timestamp": "2025-04-27T23:53:18+07:00",
+    "success": false
+  }
+]

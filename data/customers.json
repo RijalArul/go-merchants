@@ -1,0 +1,72 @@
+[
+  {
+    "id": "customer-001",
+    "username": "RYRkNKI",
+    "password": "$2a$10$eMaqB.CfccrXA.RxEGCvQu.oiSGgjAGYl0k2V/dDQ60ITNg/qrdsC",
+    "balance": 444000,
+    "is_logged": true
+  },
+  {
+    "id": "customer-002",
+    "username": "XmwAgJB",
+    "password": "$2a$10$ZA5BxndWeM0OI0GbNJ.lZOT3PY7/Alesph9nKVcL4NEWiDRWPk1ny",
+    "balance": 988688,
+    "is_logged": false
+  },
+  {
+    "id": "customer-003",
+    "username": "uQthATd",
+    "password": "$2a$10$SVEekwtgqH0qUK40ZrH5c.uZebp3UUvQyZ/haMAaejq.1ka6kODT.",
+    "balance": 54060,
+    "is_logged": false
+  },
+  {
+    "id": "customer-004",
+    "username": "qsivHxv",
+    "password": "$2a$10$2eG0UDnrTl5koNplureFAORLl0SkUknhpAOIIjhe..nHLNI0aH8pK",
+    "balance": 535638,
+    "is_logged": false
+  },
+  {
+    "id": "customer-005",
+    "username": "gDSAovr",
+    "password": "$2a$10$1ERWiQZ911vsfl9NWGAPKeltJ3BlmBHynxb6GDhU/FvgzkC96BRfS",
+    "balance": 26242,
+    "is_logged": false
+  },
+  {
+    "id": "customer-006",
+    "username": "VtSnARL",
+    "password": "$2a$10$n19UiL0gdpL2vtPHSsnDhu2Zne7/vhmwBBCtGJ77t.2RPBT4G/VAe",
+    "balance": 403690,
+    "is_logged": false
+  },
+  {
+    "id": "customer-007",
+    "username": "gahcZBE",
+    "password": "$2a$10$3F3vZ8mZKLAcxVk6NAatP.YMHXhQquktpnhyiaisKy4GuKihVuvWO",
+    "balance": 473548,
+    "is_logged": false
+  },
+  {
+    "id": "customer-008",
+    "username": "ZmYbaEA",
+    "password": "$2a$10$/ck1uF1C7H1kaObUcL.jT.kMrOJnzM4lL8DvUjPHsnQpnKpCUkEEq",
+    "balance": 754011,
+    "is_logged": false
+  },
+  {
+    "id": "customer-009",
+    "username": "ochrpTB",
+    "password": "$2a$10$FiLyH2kv6ovGTwAM3ycJueDhTqZjo2de2ZPMTvcWXlJ98/gWFwQRu",
+    "balance": 551828,
+    "is_logged": false
+  },
+  {
+    "id": "customer-010",
+    "username": "TPbsuKH",
+    "password": "$2a$10$s88kP.tFpVt2nQNV0KSolO8Cyb7VA5aqR5wQZTGXgCmf/CdD/9iuC",
+    "balance": 675353,
+    "is_logged": false
+  }
+]
